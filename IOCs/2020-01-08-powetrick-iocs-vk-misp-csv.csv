@@ -1,9 +1,0 @@
-uuid,event_id,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
-"5e15e7b0-dfe0-4f86-83de-2a9e19d2faa1",1295,"Payload delivery","domain","drive.staticcontent.kz","",1,1578493872,"","","","",""
-"5e15e7b0-e1dc-4635-b973-2a9e19d2faa1",1295,"Network activity","domain","web000aaa.info","",1,1578493872,"","","","",""
-"5e15e7b0-36c0-4ede-8b82-2a9e19d2faa1",1295,"Network activity","domain","traveldials.com","",1,1578493872,"","","","",""
-"5e15e7b0-3c94-4496-adb9-2a9e19d2faa1",1295,"Network activity","domain","northtracing.net","",1,1578493872,"","","","",""
-"5e15e7b0-7830-468a-a262-2a9e19d2faa1",1295,"Network activity","domain","magikorigin.me","",1,1578493872,"","","","",""
-"5e15e7b0-9ea0-42a5-a643-2a9e19d2faa1",1295,"Network activity","ip-dst","5.9.161.246","",1,1578493872,"","","","",""
-"5e15e7b1-3ef8-4abc-ae54-2a9e19d2faa1",1295,"Network activity","ip-dst","192.99.38.41","",1,1578493873,"","","","",""
-
